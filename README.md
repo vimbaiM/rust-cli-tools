@@ -1,4 +1,4 @@
-![Rust](https://shields.io)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 # Command-Line Rust Code-Along
 

@@ -4,10 +4,11 @@
 
 This repository contains my code-along implementations from the book **Command-Line Rust**.
 
-It currently includes two small CLI programs:
+It currently includes three small CLI programs:
 
 1. `echor`: a Rust version of `echo`
 2. `catr`: a Rust version of `cat`
+3. `headr`: a Rust version of `head`
 
 The goal is to practice idiomatic Rust for CLI tooling, argument parsing with `clap`, and test-driven development with integration tests.
 
@@ -17,6 +18,7 @@ This repo is organized as separate crates:
 
 - `echor/`: echo-like command
 - `catr/`: cat-like command
+- `headr/`: head-like command
 
 Each crate has its own:
 
